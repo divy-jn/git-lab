@@ -1,5 +1,1 @@
-this is the file
-vi file.txt is used to open then i 
-esc
-:wq to exit
-
+insert the text
